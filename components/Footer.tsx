@@ -29,7 +29,7 @@ const Footer = () => {
           Let’s connect and explore how I can bring value to your team as a dedicated intern or full-time developer.
         </p>
         <Link 
-        href="mailto:ganeshlonareofficial@gmail.com" 
+        href="mailto:ganeshlonare311@gmail.com" 
         target="_blank">
           <MagicButton
             title="Let's get in touch"
