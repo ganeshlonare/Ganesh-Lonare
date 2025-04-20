@@ -66,7 +66,7 @@ export const BentoGridItem = ({
   };
 
   const handleCopy = () => {
-    const text = "ganeshlonareofficial@gmail.com";
+    const text = "ganeshlonare311@gmail.com";
     navigator.clipboard.writeText(text);
     setCopied(true);
   };
